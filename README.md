@@ -93,3 +93,5 @@ https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.join.htm
 http://knowledgetack.com/python/statsmodels/proportions_ztest/
 
 https://stackoverflow.com/questions/45923738/replace-column-value-based-on-value-in-other-column-for-all-rows-in-a-pandas-da
+
+Visit Github Of Mine:https://github.com/sbd29/Analyze-A-B.git
